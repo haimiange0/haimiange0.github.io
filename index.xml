@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>云淡风轻</title>
-    <link>https://haimiange0.github.io/</link>
+    <link>https://hmg.edns.biz/</link>
     <description>Recent content on 云淡风轻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sun, 26 Apr 2020 12:35:07 +0800</lastBuildDate>
     
-	<atom:link href="https://haimiange0.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hmg.edns.biz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>关于</title>
-      <link>https://haimiange0.github.io/about/</link>
+      <link>https://hmg.edns.biz/about/</link>
       <pubDate>Sun, 26 Apr 2020 12:35:07 +0800</pubDate>
       
-      <guid>https://haimiange0.github.io/about/</guid>
+      <guid>https://hmg.edns.biz/about/</guid>
       <description>&amp;ldquo;这里埋葬着章鱼哥的希望和梦想。&amp;quot;</description>
     </item>
     
     <item>
       <title>归档</title>
-      <link>https://haimiange0.github.io/archives/</link>
+      <link>https://hmg.edns.biz/archives/</link>
       <pubDate>Sun, 26 Apr 2020 12:35:07 +0800</pubDate>
       
-      <guid>https://haimiange0.github.io/archives/</guid>
+      <guid>https://hmg.edns.biz/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ubuntu 16.04上使用LAMP安装WordPress</title>
-      <link>https://haimiange0.github.io/posts/Ubuntu-16.04%E4%B8%8A%E4%BD%BF%E7%94%A8LAMP%E5%AE%89%E8%A3%85WordPress/</link>
+      <link>https://hmg.edns.biz/posts/Ubuntu-16.04%E4%B8%8A%E4%BD%BF%E7%94%A8LAMP%E5%AE%89%E8%A3%85WordPress/</link>
       <pubDate>Thu, 12 Mar 2020 11:40:07 +0800</pubDate>
       
-      <guid>https://haimiange0.github.io/posts/Ubuntu-16.04%E4%B8%8A%E4%BD%BF%E7%94%A8LAMP%E5%AE%89%E8%A3%85WordPress/</guid>
+      <guid>https://hmg.edns.biz/posts/Ubuntu-16.04%E4%B8%8A%E4%BD%BF%E7%94%A8LAMP%E5%AE%89%E8%A3%85WordPress/</guid>
       <description>&lt;p&gt;默认您已经安装好了LAMP!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Ubuntu 16.04上安装LAMP</title>
-      <link>https://haimiange0.github.io/posts/Ubuntu%E5%AE%89%E8%A3%85LAMP/</link>
+      <link>https://hmg.edns.biz/posts/Ubuntu%E5%AE%89%E8%A3%85LAMP/</link>
       <pubDate>Sun, 23 Feb 2020 11:40:07 +0800</pubDate>
       
-      <guid>https://haimiange0.github.io/posts/Ubuntu%E5%AE%89%E8%A3%85LAMP/</guid>
+      <guid>https://hmg.edns.biz/posts/Ubuntu%E5%AE%89%E8%A3%85LAMP/</guid>
       <description>步骤1：准备Ubuntu Linux LAMP堆栈包括Linux机器……在这种情况下，是Ubuntu。要获得LAMP，您必须首先安装Linux机器……本</description>
     </item>
     
     <item>
       <title>Ubuntu 16.04上安装Docker</title>
-      <link>https://haimiange0.github.io/posts/Ubuntu-16.04%E4%B8%8A%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8Docker/</link>
+      <link>https://hmg.edns.biz/posts/Ubuntu-16.04%E4%B8%8A%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8Docker/</link>
       <pubDate>Thu, 20 Feb 2020 11:40:07 +0800</pubDate>
       
-      <guid>https://haimiange0.github.io/posts/Ubuntu-16.04%E4%B8%8A%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8Docker/</guid>
+      <guid>https://hmg.edns.biz/posts/Ubuntu-16.04%E4%B8%8A%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8Docker/</guid>
       <description>安装Docker 官方Ubuntu 16.04存储库中提供的Docker安装软件包可能不是最新版本。要获取此最新版本，请从官方Docker存储库</description>
     </item>
     
     <item>
       <title>Linux上安装MTProxy</title>
-      <link>https://haimiange0.github.io/posts/Ubuntu-16.04%E4%B8%8A%E5%AE%89%E8%A3%85MTProxy/</link>
+      <link>https://hmg.edns.biz/posts/Ubuntu-16.04%E4%B8%8A%E5%AE%89%E8%A3%85MTProxy/</link>
       <pubDate>Sat, 01 Feb 2020 11:40:07 +0800</pubDate>
       
-      <guid>https://haimiange0.github.io/posts/Ubuntu-16.04%E4%B8%8A%E5%AE%89%E8%A3%85MTProxy/</guid>
+      <guid>https://hmg.edns.biz/posts/Ubuntu-16.04%E4%B8%8A%E5%AE%89%E8%A3%85MTProxy/</guid>
       <description>安装依赖，你需要从源代码构建一套通用的工具，以及用于开发包openssl和zlib。 在Debian / Ubuntu上： apt install git curl build-essential libssl-dev zlib1g-dev 在Cent</description>
     </item>
     
     <item>
       <title>Ubuntu安装Nginx</title>
-      <link>https://haimiange0.github.io/posts/Ubuntu%E5%AE%89%E8%A3%85Nginx/</link>
+      <link>https://hmg.edns.biz/posts/Ubuntu%E5%AE%89%E8%A3%85Nginx/</link>
       <pubDate>Sun, 26 Jan 2020 11:40:07 +0800</pubDate>
       
-      <guid>https://haimiange0.github.io/posts/Ubuntu%E5%AE%89%E8%A3%85Nginx/</guid>
+      <guid>https://hmg.edns.biz/posts/Ubuntu%E5%AE%89%E8%A3%85Nginx/</guid>
       <description>步骤1：安装Nginx Nginx在Ubuntu的默认存储库中可用，因此安装非常简单。 由于这是我们apt在本次会议中与包装系统的首次互动，因此</description>
     </item>
     
     <item>
       <title>Ubuntu-搭建Samba服务</title>
-      <link>https://haimiange0.github.io/posts/Ubuntu-%E6%90%AD%E5%BB%BASamba%E6%9C%8D%E5%8A%A1/</link>
+      <link>https://hmg.edns.biz/posts/Ubuntu-%E6%90%AD%E5%BB%BASamba%E6%9C%8D%E5%8A%A1/</link>
       <pubDate>Wed, 15 Jan 2020 11:40:07 +0800</pubDate>
       
-      <guid>https://haimiange0.github.io/posts/Ubuntu-%E6%90%AD%E5%BB%BASamba%E6%9C%8D%E5%8A%A1/</guid>
+      <guid>https://hmg.edns.biz/posts/Ubuntu-%E6%90%AD%E5%BB%BASamba%E6%9C%8D%E5%8A%A1/</guid>
       <description>&lt;p&gt;Ubuntu-搭建Samba服务!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Nginx环境强制http 301跳转https的方法</title>
-      <link>https://haimiange0.github.io/posts/Nginx%E7%8E%AF%E5%A2%83%E5%BC%BA%E5%88%B6http-301%E8%B7%B3%E8%BD%AChttps%E7%9A%84%E6%96%B9%E6%B3%95/</link>
+      <link>https://hmg.edns.biz/posts/Nginx%E7%8E%AF%E5%A2%83%E5%BC%BA%E5%88%B6http-301%E8%B7%B3%E8%BD%AChttps%E7%9A%84%E6%96%B9%E6%B3%95/</link>
       <pubDate>Fri, 03 Jan 2020 11:40:07 +0800</pubDate>
       
-      <guid>https://haimiange0.github.io/posts/Nginx%E7%8E%AF%E5%A2%83%E5%BC%BA%E5%88%B6http-301%E8%B7%B3%E8%BD%AChttps%E7%9A%84%E6%96%B9%E6%B3%95/</guid>
+      <guid>https://hmg.edns.biz/posts/Nginx%E7%8E%AF%E5%A2%83%E5%BC%BA%E5%88%B6http-301%E8%B7%B3%E8%BD%AChttps%E7%9A%84%E6%96%B9%E6%B3%95/</guid>
       <description>方法一： if ($scheme = http ) { return 301 https://$host$request_uri; } 方法二： server_name moerats.com ; rewrite ^(.*) https://moerats.com$1 permanent; 方法三： if ($server_port = 80 ) { return 301 https://$host$request_uri; } 方法四： server_name moerats.com ; return 301 https://$server_name$request_uri;</description>
     </item>
     
     <item>
       <title>Linux系统下自动定时重启设定方法</title>
-      <link>https://haimiange0.github.io/posts/Linux%E7%B3%BB%E7%BB%9F%E4%B8%8B%E8%87%AA%E5%8A%A8%E5%AE%9A%E6%97%B6%E9%87%8D%E5%90%AF%E8%AE%BE%E5%AE%9A%E6%96%B9%E6%B3%95/</link>
+      <link>https://hmg.edns.biz/posts/Linux%E7%B3%BB%E7%BB%9F%E4%B8%8B%E8%87%AA%E5%8A%A8%E5%AE%9A%E6%97%B6%E9%87%8D%E5%90%AF%E8%AE%BE%E5%AE%9A%E6%96%B9%E6%B3%95/</link>
       <pubDate>Thu, 26 Dec 2019 11:40:07 +0800</pubDate>
       
-      <guid>https://haimiange0.github.io/posts/Linux%E7%B3%BB%E7%BB%9F%E4%B8%8B%E8%87%AA%E5%8A%A8%E5%AE%9A%E6%97%B6%E9%87%8D%E5%90%AF%E8%AE%BE%E5%AE%9A%E6%96%B9%E6%B3%95/</guid>
+      <guid>https://hmg.edns.biz/posts/Linux%E7%B3%BB%E7%BB%9F%E4%B8%8B%E8%87%AA%E5%8A%A8%E5%AE%9A%E6%97%B6%E9%87%8D%E5%90%AF%E8%AE%BE%E5%AE%9A%E6%96%B9%E6%B3%95/</guid>
       <description>1、安装Crontab 有些系统可能已经安装了Crontab，可以跳过此步骤，没有的就安装下。 #CentOS yum install vixie-cron crontabs chkconfig crond on service crond start #Debian apt-get install cron /etc/init.d/cron restart 这里根据我们服</description>
     </item>
     
